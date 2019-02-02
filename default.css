@@ -250,7 +250,7 @@ hr {
 
 	#logo 
 	{
-		width: 500px;
+		width: 700px;
 		height: 100px;
 		margin: 0 auto;
 		padding: 2em 0em;
@@ -266,6 +266,7 @@ hr {
 	#logo p 
 	{
 		letter-spacing: 0.10em;
+		text-transform: lowercase;
 		color: #FFF;
 	}
 	
@@ -332,7 +333,7 @@ hr {
 
 #menu {
 	overflow: hidden;
-	height: 100px;
+	height: 80px;
 }
 
 #menu ul {
@@ -355,7 +356,7 @@ hr {
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 0.80em;
-	line-height: 100px;
+	line-height: 80px;
 	border: none;
 	color: #FFF;
 }

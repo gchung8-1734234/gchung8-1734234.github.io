@@ -282,8 +282,8 @@ hr {
 	#banner 
 	{
 		overflow: hidden;
-		height: 500px;
-		background: url(images/pic01.jpg) no-repeat center;
+		height: 1024px;
+		background: url(images/pic01.jpg) no-repeat top;
 		background-size: cover;
 	}
 	
@@ -291,7 +291,38 @@ hr {
 	{
 	}
 	
-
+	#banner2
+	{
+		overflow: hidden;
+		height: 1140px;
+		background: url(images/warriors.jpg) no-repeat top;
+		background-size: cover;
+	}
+	
+	#banner3
+	{
+		overflow: hidden;
+		height: 1300px;
+		background: url(images/49ers_raiders.jpg) no-repeat top;
+		background-size: cover;
+	}
+	
+	#banner4
+	{
+		overflow: hidden;
+		height: 1350px;
+		background: url(images/giants_athletics.jpg) no-repeat top;
+		background-size: cover;
+	}
+	
+	#banner5
+	{
+		overflow: hidden;
+		height: 1360px;
+		background: url(images/sharks.jpg) no-repeat top;
+		background-size: cover;
+	}
+	
 /** MENU */
 
 #menu-wrapper
